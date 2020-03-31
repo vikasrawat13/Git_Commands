@@ -1,4 +1,4 @@
-##########################  This is testing respository for git training
+This is testing respository for git training
 
 
 
