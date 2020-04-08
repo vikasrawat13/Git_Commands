@@ -1,6 +1,6 @@
 # Basic GitHub Commands
 
-### Git Clone "your github Repository" (To create clone in your local machine)
+#### Git Clone "your github Repository" (To create clone in your local machine)
 ### Git Diff "Get difference" (display changes between all files & folders
 ### Git Status "Get Status" (display what changes has been done)
 ### Git Add * or Git Add . "To add" (to update all the changes)
