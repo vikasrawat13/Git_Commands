@@ -7,12 +7,12 @@
 <b>Git commit -m "Message" Commit all the updates in the git repoUpload all the changes to your git repo<br/>
 <b>Git Push (Upload all the changes to your git repo)<br/><br/>
 
-<b>----------- In the command-line, navigate to your local repository. --------------------------<br/>
-Ensure you are in the default branch:<br/>
-<b>git checkout master<br/>
-The rm -r command will recursively remove your folder:<br/>
-<b>git rm -r folder-name<br/>
-Commit the change:<br/>
-<b>git commit -m "Remove duplicated directory"<br/>
-Push the change to your remote repository:<br/>
-<b>git push origin master<br/>
+<b>----------- In the command-line, navigate to your local repository. --------------------------<b/><br/>
+Ensure you are in the default branch:<b/><br/>
+<b>git checkout master<br/><b/><br/>
+The rm -r command will recursively remove your folder:<b/><br/>
+<b>git rm -r folder-name<b/><br/>
+Commit the change:<b/><br/>
+<b>git commit -m "Remove duplicated directory"<b/><br/>
+Push the change to your remote repository:<b/><br/>
+<b>git push origin master<b/><br/>
