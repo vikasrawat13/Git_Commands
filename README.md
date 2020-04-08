@@ -1,11 +1,11 @@
 # Basic GitHub Commands
 
-<b>Git Clone "your github Repository" (To create clone in your local machine)<br/>
-<b>Git Diff "Get difference" (display changes between all files & folders<br/>
-<b>Git Status "Get Status" (display what changes has been done)<br/>
-<b>Git Add * or Git Add . "To add" (to update all the changes)<br/>
-<b>Git commit -m "Message" Commit all the updates in the git repoUpload all the changes to your git repo<br/>
-<b>Git Push (Upload all the changes to your git repo)<br/><br/>
+<b>Git Clone "your github Repository" (To create clone in your local machine)<b/><br/>
+<b>Git Diff "Get difference" (display changes between all files & folders<b/><br/>
+<b>Git Status "Get Status" (display what changes has been done)<b/><br/>
+<b>Git Add * or Git Add . "To add" (to update all the changes)<b/><br/>
+<b>Git commit -m "Message" "Commit all the updates in the git repo" (Upload all the changes to your git repo<b/><br/>
+<b>Git Push (Upload all the changes to your git repo)<b/><br/>
 
 <b>----------- In the command-line, navigate to your local repository. --------------------------<b/><br/>
 Ensure you are in the default branch:<b/><br/>
