@@ -12,11 +12,10 @@ Get Status (display what changes has been done)
 To add (to update all the changes)
 ### Git Add * or Git Add .
 
-Commit all the updates in the git repo
+Commit all the updates in the git repoUpload all the changes to your git repo
 ### Git commit -m "Message"
 
-Upload all the changes to your git repo
-### Git Push
+### Git Push (Upload all the changes to your git repo)
 
 In the command-line, navigate to your local repository.
 Ensure you are in the default branch:
